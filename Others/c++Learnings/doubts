@@ -1,0 +1,5 @@
+
+1. Let us say that we have an unordered_map<int,int> p, then to insert a pair into this we can use insert as well as emplace (though emplace is far more better)
+
+2. Now let us say I have an unordered_map<int,pair<int,int> > and i  want to insert {1,{2,3}}. How to use emplace in this. I cant find a way without making the
+   copy of second pair and then inserting it

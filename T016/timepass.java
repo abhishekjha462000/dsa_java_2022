@@ -2,9 +2,6 @@ import static java.lang.System.*;
 import java.io.*;
 import java.lang.*;
 import java.util.*;
-import java.util.Stack;
-import java.util.Queue;
-import java.util.HashMap;
 
 class Main{
     private static int[] readIntArray(BufferedReader br) throws IOException

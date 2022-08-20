@@ -1,3 +1,6 @@
+# Binary trees    
+    
+    
     /**
      * Tree (By the way this is a Binary search tree now that i see this)
      * because its inorder is sorted already

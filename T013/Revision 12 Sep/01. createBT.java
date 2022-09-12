@@ -45,3 +45,13 @@ private static Node createBT(int[] nums){
 
     	return root;
     }
+
+
+
+    // ROUGH WORK
+
+
+
+
+
+    

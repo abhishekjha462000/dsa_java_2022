@@ -49,3 +49,10 @@ private static void display(Node node){
         display(node.right);
 
     }
+
+    // ROUGH WORK
+
+
+
+
+    

@@ -1,4 +1,4 @@
-# DSA-JAVA
+# dsa_java_2022
 
 Not all battles are fought for victory. Some are fought simply to tell the world that someone was there on the battle. 
 
